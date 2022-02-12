@@ -4,7 +4,7 @@
 #if false
     public class Referable
     {
-        // 変更
+        // 変更２
         private int i;
         private int[] items = new int[10];
 
